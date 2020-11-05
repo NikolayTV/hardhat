@@ -25,3 +25,4 @@ $ docker run --gpus all --detach --publish 7778:7778 --name hh --ipc=host nikola
 # Inference example in "Request example.ipynb"
 
 
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6Ik5pa29sYXlUViIsInJlcG8xIjoiaGFyZGhhdCIsImluY2x1ZGVMaW50IjpmYWxzZSwiYXV0aG9ySWQiOjI0NTUyLCJpYXQiOjE2MDQ1NzE3NTJ9.u82pcB2dK7gpIBtB3Py8LqMADei9pu61GMK1pXyl5tE)](https://www.deepcode.ai/app/gh/NikolayTV/hardhat/_/dashboard?utm_content=gh%2FNikolayTV%2Fhardhat)
